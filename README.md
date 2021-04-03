@@ -18,5 +18,3 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dejstheman&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dejstheman&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dejstheman&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
